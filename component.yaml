@@ -5,7 +5,7 @@ displayName: "Send to Distribution Module"
 description: "Sends binary to Distribution Module"
 runOn: "Server"
 inputs:
-- key: "AC_DISTRIBUTION_PROFLE_ID"
+- key: "AC_DISTRIBUTION_PROFILE_ID"
   defaultValue: ""
   isRequired: true
   editorType: select
